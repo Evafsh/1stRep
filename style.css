@@ -1,0 +1,45 @@
+#fakebook {
+font-size: 50px;
+color: #4267B2;
+font-face: helvetica;
+font-weight: bold;
+            }
+.bold {
+font-size: 15px;
+font-family: verdana;
+font-weight: bold;
+color: #898F9C;
+display: inline-block;
+}
+.normal {
+display: inline;
+font size: 5px;
+font-family: verdana;
+font-color: #000000;
+
+}
+
+.bold2 {
+font-size: 15px;
+font-family: verdana;
+font-weight: bold;
+color: #000000;
+display: inline-block;
+}
+
+.image {
+border: 3px black dotted;
+padding: 3px;
+
+}
+
+.image:hover {
+border: 3px dotted;
+color: #4267B2;
+padding: 3px;
+
+}
+
+table {
+border-collapse: collapse;
+}
